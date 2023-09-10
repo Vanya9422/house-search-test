@@ -19,6 +19,7 @@
 4. Генерируйте ключ проекта `php artisan key:generate`.
 5. Выполните миграции с помощью команды `php artisan migrate --seed`.
 6. Запустите сервер с помощью команды `php artisan serve`.
+7. Фронт находится в папке `client`
 
 ### API будет доступно по адресу `http://localhost:8000`
 

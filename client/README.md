@@ -1,24 +1,23 @@
-# client
+# House Search App (Front)
 
-## Project setup
+Это клиентская часть приложения House Search, разработанная с использованием Vue 2.
+
+## Используемые технологии
+
+- **Vue.js:** JavaScript-фреймворк для разработки веб-приложений.
+- **Element UI:** UI библиотека для стилизации интерфейса.
+
+## Запуск проекта
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Компилирует и выполняет горячую перезагрузку для разработки.
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Компилирует и минифицирует для производства
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
